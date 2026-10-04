@@ -1,1 +1,0 @@
-# JWE3-Favorite-Picker
